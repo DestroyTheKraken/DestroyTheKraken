@@ -25,8 +25,8 @@ Linux (Ubuntu, Rocky) · CLI · systemctl (basics) · routers / segmented networ
 | | |
 |---|---|
 | LFS101 · LFS207 | Completed April 2026 |
+| Network+ & Security+ | through WA State Libraries, using course prep on LinkedIN Learning, Certs will be obtained as a progression towards LFCS |
 | LFCS | Exam purchased · target September 2026 |
-| Linux+ · Network+ | Planned after LFCS |
 | Google AI Essentials · Nucamp Python / Web · Lean Six Sigma Yellow Belt | Completed |
 
 ## Experience (from the résumé)
