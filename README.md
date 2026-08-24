@@ -30,7 +30,7 @@ Linux (Ubuntu, Rocky) · CLI · systemctl (basics) · routers / segmented networ
 | Network+ & Security+ | *CURRENTLY STUDYING* Through WA State Libraries, using course prep on LinkedIn Learning, using as progression towards LFCS |
 | LFCS | Exam purchased · target December - January 2026 |
 
-## Experience (from the résumé)
+## Experience
 
 | Dates | Role |
 |-------|------|
@@ -40,4 +40,3 @@ Linux (Ubuntu, Rocky) · CLI · systemctl (basics) · routers / segmented networ
 | 2013 – 2016 | Training systems and S6 support, U.S. Army, 1st Medical Brigade |
 | 2005 – 2025 | Audio systems engineer and consultant (parallel to other roles) |
 
-Omak, Washington. Email only.
