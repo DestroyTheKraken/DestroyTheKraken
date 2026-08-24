@@ -21,35 +21,38 @@
 > [!NOTE]
 > U.S. Army veteran changing careers into Linux, networking, and IT operations after two decades of designing, documenting, and keeping multi-component systems running.
 
-I operate a multi-node Linux lab and am preparing for the LFCS exam (target September 2026). The habit is the same as the last twenty years: understand the system, write down what you did, stay with the problem until it is closed.
+I run a premises lab — routers, segmented networks, Ubuntu and Rocky servers, Linux and Windows desktops — and am preparing for the LFCS exam (target September 2026). I use **Grok Build** and **Claude Code** (and similar tools) to research, draft, and configure **while I learn**. I type the commands, test the result, and own what I ship.
 
 ## Skills
 
-| Area | What I use |
-|------|------------|
-| Linux | Ubuntu, Rocky Linux, systemd, LVM, permissions, packages, rebuilds |
-| Networking | VLANs, routing, Tailscale, WireGuard, ACLs, SSH, Starlink, mesh Wi-Fi |
-| Edge / lab | VyOS, OPNsense (study), segmented home/lab LANs |
-| Operations | Homelab fleet, Nextcloud, Docker, Borg, runbooks, change notes |
-| Scripting | Bash, Python fundamentals, Git, SQL / PostgreSQL fundamentals |
+| Area | What I do |
+|------|-----------|
+| Linux | Ubuntu and Rocky servers and desktops; live in the CLI (files, packages, systemctl basics) |
+| Networking | Design and deploy routers; segmented lab / home / guest / IoT; Starlink and mesh; Tailscale; SSH |
+| Troubleshooting | Official documentation plus AI tools; phased, root-cause work |
+| Virtualization | VirtualBox and Multipass for disposable labs |
+| Firewalls | Default-deny posture; UFW and firewalld basics |
+| Workstations | Image and deploy Linux and Windows desktops |
+| Scripting | Bash, Python fundamentals, Git basics (AI assists with more complex Git) |
 | Quality | SOPs, inventories, Lean Six Sigma Yellow Belt (DMAIC) |
 | Delivery | Training non-technical operators, ticket ownership, clean handoff |
-| AI-assisted work | Grok, Claude Code, Ollama, Gemini CLI, Copilot — draft only; I test and own the result |
+| How I learn | Grok Build, Claude Code, Ollama, Gemini CLI, Copilot — setup and config aid; I still run and document |
 
 ## Lab in practice
 
-Independent lab, 2025 – present · [homelab spec sheets](https://github.com/DestroyTheKraken/homelab) · [installers](https://github.com/DestroyTheKraken)
+Independent lab, 2025 – present · [homelab spec sheets](https://github.com/DestroyTheKraken/homelab)
 
-| Layer | What is running / documented |
-|-------|------------------------------|
-| Edge | Starlink WAN, VyOS, lab LAN vs home LAN, no inbound WAN ports |
-| Compute | Control seat plus a three-node Ubuntu fleet |
-| Access | Dual Tailscale identities (lab vs home), SSH |
-| Services | File / collaboration / backup practice (Nextcloud installer in public repos) |
-| Proof | Public notes, not unused coursework |
+| Layer | What is actually there |
+|-------|------------------------|
+| Edge | Starlink, VyOS I configured (AI for research/debug; I ran every command) |
+| Segments | Lab LAN vs home LAN; guest and IoT SSIDs |
+| Compute | Control seat, Ubuntu lab hosts, Linux/Windows desktops |
+| Access | Tailscale, SSH; no inbound WAN ports |
+| Labs | Multipass and VirtualBox |
+| Notes | Public installers and spec sheets; AI helps write, I review |
 
 > [!TIP]
-> Daily work: design, implement, document, recover. Segmentation, VPN, 2FA, quotas, and rebuild runbooks.
+> This is not a k3s or “HA private cloud” résumé. It is a working premises lab plus the habit of using AI to stand up more complex stacks as I learn.
 
 ## Experience
 
@@ -67,10 +70,10 @@ Independent professional development · Omak, WA · July 2025 – present
 
 - Linux Foundation LFS101 and LFS207 (April 2026); badges on Credly. LFCS exam purchased; target September 2026.
 - Google AI Essentials (September 2025) and Nucamp Python and Web fundamentals.
-- Live Linux and network services; AI tools as a bench aid, not a substitute for testing.
+- Deploy and maintain Linux servers (Ubuntu, Rocky), desktops, and the lab router. CLI daily. AI tools help me set things up as I learn; I test and own the result.
 
 > [!TIP]
-> Maps to technician / junior-admin work: services, access, documentation, repeatable operations — while credentials finish on a dated path.
+> Maps to technician / junior-admin work: hosts, access, firewalls, documentation — while credentials finish on a dated path.
 
 ### County Compliance Planner
 
