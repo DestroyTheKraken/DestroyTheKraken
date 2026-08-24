@@ -1,7 +1,7 @@
 # Joshua Hickman
 
 **Linux systems administration · Networking · IT operations**  
-Omak, Washington · [joshua.hickman1@gmail.com](mailto:joshua.hickman1@gmail.com) · [Résumé (PDF)](./JoshuaHickman-Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/joshua-hickman-14508a24) · [Credly](https://www.credly.com/users/joshua-hickman.cfcd7e15)
+Omak, Washington · [joshua.hickman1@gmail.com](mailto:joshua.hickman1@gmail.com) · [Résumé](./RESUME.md) · [PDF](./JoshuaHickman-Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/joshua-hickman-14508a24) · [Credly](https://www.credly.com/users/joshua-hickman.cfcd7e15)
 
 I am a U.S. Army veteran in the middle of a career change into Linux, networking, and IT operations. For twenty years I designed, documented, and kept multi-component systems running — sound reinforcement, training records for a medical brigade, and the day-to-day operations of a small organization. The work changed. The habit did not: understand the system, write down what you did, stay with the problem until it is closed.
 
