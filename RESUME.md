@@ -1,6 +1,6 @@
 # Joshua Hickman
 
-**Linux systems administration · Networking · IT operations**
+**Career change — junior Linux / networking / IT operations**
 
 | | |
 |---|---|
@@ -12,7 +12,7 @@
 | Printable copy | [Download PDF](./JoshuaHickman-Resume.pdf) |
 
 > [!IMPORTANT]
-> Open to technician and administrator roles with MSPs and internal IT teams. Contact by email only.
+> Open to MSP / internal IT technician and junior Linux admin candidate roles. Contact by email only.
 
 ---
 
@@ -30,7 +30,7 @@ I use **Grok Build** and **Claude Code** (and similar tools) to research, draft,
 | Area | What I do |
 |------|-----------|
 | Linux | Ubuntu and Rocky servers and desktops; Bash/CLI daily (files, packages, systemctl basics); Canonical / Ubuntu-focused study path (LFS101, LFS207 → LFCS) |
-| Networking | Design and deploy routers; segmented lab / home / guest / IoT; Starlink and mesh; Tailscale; SSH |
+| Networking | Home/lab router and segmented LANs (VyOS, Starlink, mesh); lab / home / guest / IoT; Tailscale; SSH |
 | Troubleshooting | Official documentation plus AI tools; phased, root-cause work |
 | Virtualization | VirtualBox and Multipass for disposable labs |
 | Firewalls | Default-deny posture; UFW and firewalld basics |
@@ -62,9 +62,9 @@ Independent lab, 2025 – present · [homelab spec sheets](https://github.com/De
 |------|------|--------|
 | Jul 2025 – present | Career transition — Linux, networking, IT operations | Independent · Omak, WA |
 | Mar 2024 – Jul 2025 | County Compliance Planner | Okanogan County Planning & Development |
-| Dec 2022 – Jan 2025 | Organizational leader | New Life Center, Okanogan, WA |
+| Dec 2022 – Jan 2025 | Operations lead, New Life Center | Okanogan, WA |
 | 2013 – 2016 | Training systems and S6 support | U.S. Army, 1st Medical Brigade, Fort Hood, TX |
-| 2005 – 2025 | Audio systems engineer and consultant | Self-employed |
+| 2005 – 2025 | Audio systems installer / operator and consultant | Self-employed |
 
 ### Career transition — Linux, networking, IT operations
 
@@ -87,7 +87,7 @@ Okanogan County Office of Planning & Development · March 2024 – July 2025
 > [!NOTE]
 > Same muscle as change control, ticket notes, and audit-ready ops.
 
-### Organizational leader
+### Operations lead, New Life Center
 
 New Life Center, Okanogan, WA · December 2022 – January 2025
 
@@ -111,7 +111,7 @@ U.S. Army, 1st Medical Brigade, Fort Hood, TX · 2013 – 2016
 > [!TIP]
 > Closest prior match to enterprise IT: information systems, endpoints, comms, SOPs, pressure.
 
-### Audio systems engineer and consultant
+### Audio systems installer / operator and consultant
 
 Self-employed · 2005 – 2025
 

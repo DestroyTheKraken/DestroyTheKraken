@@ -1,7 +1,7 @@
 # Joshua Hickman
 
-**Linux systems administration · Networking · IT operations**  
-Open to technician and junior administrator roles (MSP or internal IT)
+**Career change — junior Linux / networking / IT operations**  
+Open to MSP / internal IT technician and junior Linux admin candidate roles
 
 Omak, WA · [joshua.hickman1@gmail.com](mailto:joshua.hickman1@gmail.com) · [LinkedIn](https://www.linkedin.com/in/joshua-hickman-14508a24) · [Credly](https://www.credly.com/users/joshua-hickman.cfcd7e15) · [Résumé](./RESUME.md) · [PDF](./JoshuaHickman-Resume.pdf)
 
@@ -22,7 +22,7 @@ I use AI tools (Grok Build, Claude Code, and similar) the way a junior admin use
 
 ## Stack
 
-Ubuntu / Rocky · Bash / CLI · systemctl (basics) · routers & segmented networks · Tailscale · UFW / firewalld (basics) · VirtualBox · Multipass · Git (basics) · Markdown runbooks · AI-assisted setup I still verify by hand
+Ubuntu / Rocky · Bash / CLI · systemctl (basics) · Home/lab router and segmented LANs (VyOS, Starlink, mesh) · Tailscale · UFW / firewalld (basics) · VirtualBox · Multipass · Git (basics) · Markdown runbooks · AI-assisted setup I still verify by hand
 
 ## Certifications
 
@@ -42,9 +42,9 @@ Ubuntu / Rocky · Bash / CLI · systemctl (basics) · routers & segmented networ
 |-------|------|
 | Jul 2025 – present | Career transition — Linux, networking, IT operations (lab + LF coursework) |
 | Mar 2024 – Jul 2025 | County Compliance Planner, Okanogan County |
-| Dec 2022 – Jan 2025 | Organizational leader, New Life Center, Okanogan, WA |
+| Dec 2022 – Jan 2025 | Operations lead, New Life Center, Okanogan, WA |
 | 2013 – 2016 | Training systems and S6 support, U.S. Army, 1st Medical Brigade |
-| 2005 – 2025 | Audio systems engineer and consultant (parallel to other roles) |
+| 2005 – 2025 | Audio systems installer / operator and consultant (parallel to other roles) |
 
 ## How to review this profile
 
