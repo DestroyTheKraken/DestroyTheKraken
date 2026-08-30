@@ -21,22 +21,24 @@
 > [!NOTE]
 > U.S. Army veteran changing careers into Linux, networking, and IT operations after two decades of designing, documenting, and keeping multi-component systems running.
 
-I run a premises lab — routers, segmented networks, Ubuntu and Rocky servers, Linux and Windows desktops — and am preparing for the LFCS exam (target September 2026). I use **Grok Build** and **Claude Code** (and similar tools) to research, draft, and configure **while I learn**. I type the commands, test the result, and own what I ship.
+I run a premises lab — routers, segmented networks, Ubuntu and Rocky servers, Linux and Windows desktops — with daily CLI/Bash work on Ubuntu and a focus on Canonical-style Linux administration. Linux Foundation **LFS101** and **LFS207** are complete; I am studying CompTIA **Network+** and **Security+** on the way to **LFCS** (exam purchased; target December 2026 – January 2027).
+
+I use **Grok Build** and **Claude Code** (and similar tools) to research, draft, and configure **while I learn**. **Google AI Essentials** underpins that habit — including Markdown as a practical prompting and docs-as-code language for runbooks and install notes. I type the commands, test the result, and own what I ship.
 
 ## Skills
 
 | Area | What I do |
 |------|-----------|
-| Linux | Ubuntu and Rocky servers and desktops; live in the CLI (files, packages, systemctl basics) |
+| Linux | Ubuntu and Rocky servers and desktops; Bash/CLI daily (files, packages, systemctl basics); Canonical / Ubuntu-focused study path (LFS101, LFS207 → LFCS) |
 | Networking | Design and deploy routers; segmented lab / home / guest / IoT; Starlink and mesh; Tailscale; SSH |
 | Troubleshooting | Official documentation plus AI tools; phased, root-cause work |
 | Virtualization | VirtualBox and Multipass for disposable labs |
 | Firewalls | Default-deny posture; UFW and firewalld basics |
 | Workstations | Image and deploy Linux and Windows desktops |
 | Scripting | Bash, Python fundamentals, Git basics (AI assists with more complex Git) |
+| AI + docs | Google AI Essentials; Markdown prompts and runbooks as docs-as-code; Grok Build / Claude Code for scaffold — I still verify |
 | Quality | SOPs, inventories, Lean Six Sigma Yellow Belt (DMAIC) |
 | Delivery | Training non-technical operators, ticket ownership, clean handoff |
-| How I learn | Grok Build, Claude Code, Ollama, Gemini CLI, Copilot — setup and config aid; I still run and document |
 
 ## Lab in practice
 
@@ -68,9 +70,9 @@ Independent lab, 2025 – present · [homelab spec sheets](https://github.com/De
 
 Independent professional development · Omak, WA · July 2025 – present
 
-- Linux Foundation LFS101 and LFS207 (April 2026); badges on Credly. LFCS exam purchased; target September 2026.
-- Google AI Essentials (September 2025) and Nucamp Python and Web fundamentals.
-- Deploy and maintain Linux servers (Ubuntu, Rocky), desktops, and the lab router. CLI daily. AI tools help me set things up as I learn; I test and own the result.
+- Linux Foundation LFS101 and LFS207 (April 2026); badges on Credly. Studying Network+ and Security+ (WA State Libraries + LinkedIn Learning). LFCS exam purchased; target December 2026 – January 2027.
+- Google AI Essentials (September 2025) — prompt craft and Markdown-as-docs for lab notes — plus Nucamp Python and Web fundamentals.
+- Deploy and maintain Linux servers (Ubuntu, Rocky), desktops, and the lab router. Bash/CLI daily with an Ubuntu / Canonical focus. AI tools help me scaffold as I learn; I test and own the result.
 
 > [!TIP]
 > Maps to technician / junior-admin work: hosts, access, firewalls, documentation — while credentials finish on a dated path.
@@ -133,8 +135,9 @@ Self-employed · 2005 – 2025
 
 | Credential | Status |
 |------------|--------|
-| **LFCS** (Linux Foundation Certified System Administrator) | Exam purchased · target **September 2026** (voucher through March 2027) |
-| CompTIA Linux+ and Network+ | Planned within 12 months of LFCS |
+| **LFCS** (Linux Foundation Certified System Administrator) | Exam purchased · target **December 2026 – January 2027** (voucher through March 2027) |
+| CompTIA Network+ and Security+ | Studying (WA State Libraries + LinkedIn Learning) |
+| CompTIA Linux+ | Planned after LFCS |
 | LFS101 — Introduction to Linux | Completed 3 April 2026 · [Credly](https://www.credly.com/users/joshua-hickman.cfcd7e15) |
 | LFS207 — Linux System Administration Essentials | Completed 15 April 2026 · Credly |
 | Google AI Essentials (5 courses) | Completed 12 September 2025 |
